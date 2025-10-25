@@ -1,3 +1,3 @@
 # Minisite
 
-Minisite for Taça Ua
+Minisite for Taça Ua.
