@@ -8,7 +8,7 @@ sidebar_position: 1
 
 The Taça UA – Glicínias Plaza is the largest informal sports competition in Portugal, promoted by the Academic Association of the University of Aveiro (AAUAv). With over 7,000 participants across 20 sports, it stands as a key part of student life at the University of Aveiro.
 
-The Taça UA Optimization and Digitalization Project aims to modernize and centralize the competition’s management and communication through a digital platform.
+The Taça UA Optimization and Digitalization Project aims to modernize and centralize the competition's management and communication through a digital platform.
 
 **Our solution will enable:**
 
@@ -37,19 +37,19 @@ Through this digital transformation, Taça UA takes a decisive step toward effic
   <div style={{
     width: '200px',
     textAlign: 'center',
-    border: '1px solid #e0e0e0',
+    border: '1px solid var(--ifm-color-emphasis-300)',
     borderRadius: '12px',
     padding: '1rem',
-    backgroundColor: '#fff',
-    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
+    backgroundColor: 'var(--ifm-card-background-color)',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.1)'
   }}>
     <img src="/img/bernardo.jpg" alt="Bernardo" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
     <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Bernardo</h4>
-    <em>Project Owner</em>
-    <hr style={{ margin: '0.8rem 0' }} />
+    <em style={{ color: 'var(--ifm-color-emphasis-700)' }}>Project Owner</em>
+    <hr style={{ margin: '0.8rem 0', borderColor: 'var(--ifm-color-emphasis-300)' }} />
     <span style={{
-      backgroundColor: '#9e9e9e',
-      color: '#fff',
+      backgroundColor: 'var(--ifm-color-emphasis-300)',
+      color: 'var(--ifm-font-color-base)',
       fontWeight: '600',
       padding: '0.25rem 0.6rem',
       borderRadius: '6px',
@@ -61,19 +61,19 @@ Through this digital transformation, Taça UA takes a decisive step toward effic
   <div style={{
     width: '200px',
     textAlign: 'center',
-    border: '1px solid #e0e0e0',
+    border: '1px solid var(--ifm-color-emphasis-300)',
     borderRadius: '12px',
     padding: '1rem',
-    backgroundColor: '#fff',
-    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
+    backgroundColor: 'var(--ifm-card-background-color)',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.1)'
   }}>
     <img src="/img/alexandre.jpg" alt="Alexandre" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
     <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Alexandre</h4>
-    <em>Joker</em>
-    <hr style={{ margin: '0.8rem 0' }} />
+    <em style={{ color: 'var(--ifm-color-emphasis-700)' }}>Joker</em>
+    <hr style={{ margin: '0.8rem 0', borderColor: 'var(--ifm-color-emphasis-300)' }} />
     <span style={{
-      backgroundColor: '#9e9e9e',
-      color: '#fff',
+      backgroundColor: 'var(--ifm-color-emphasis-300)',
+      color: 'var(--ifm-font-color-base)',
       fontWeight: '600',
       padding: '0.25rem 0.6rem',
       borderRadius: '6px',
@@ -81,8 +81,8 @@ Through this digital transformation, Taça UA takes a decisive step toward effic
       marginRight: '0.4rem'
     }}>Frontend</span>
     <span style={{
-      backgroundColor: '#9e9e9e',
-      color: '#fff',
+      backgroundColor: 'var(--ifm-color-emphasis-300)',
+      color: 'var(--ifm-font-color-base)',
       fontWeight: '600',
       padding: '0.25rem 0.6rem',
       borderRadius: '6px',
@@ -94,19 +94,19 @@ Through this digital transformation, Taça UA takes a decisive step toward effic
   <div style={{
     width: '200px',
     textAlign: 'center',
-    border: '1px solid #e0e0e0',
+    border: '1px solid var(--ifm-color-emphasis-300)',
     borderRadius: '12px',
     padding: '1rem',
-    backgroundColor: '#fff',
-    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
+    backgroundColor: 'var(--ifm-card-background-color)',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.1)'
   }}>
     <img src="/img/MateusRocha.jpg" alt="Mateus" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
     <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Mateus Rocha (122949)</h4>
-    <em>Architect</em>
-    <hr style={{ margin: '0.8rem 0' }} />
+    <em style={{ color: 'var(--ifm-color-emphasis-700)' }}>Architect</em>
+    <hr style={{ margin: '0.8rem 0', borderColor: 'var(--ifm-color-emphasis-300)' }} />
     <span style={{
-      backgroundColor: '#9e9e9e',
-      color: '#fff',
+      backgroundColor: 'var(--ifm-color-emphasis-300)',
+      color: 'var(--ifm-font-color-base)',
       fontWeight: '600',
       padding: '0.25rem 0.6rem',
       borderRadius: '6px',
@@ -118,19 +118,19 @@ Through this digital transformation, Taça UA takes a decisive step toward effic
   <div style={{
     width: '200px',
     textAlign: 'center',
-    border: '1px solid #e0e0e0',
+    border: '1px solid var(--ifm-color-emphasis-300)',
     borderRadius: '12px',
     padding: '1rem',
-    backgroundColor: '#fff',
-    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
+    backgroundColor: 'var(--ifm-card-background-color)',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.1)'
   }}>
     <img src="/img/goncalo.jpg" alt="Gonçalo" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
     <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Gonçalo</h4>
-    <em>Arch</em>
-    <hr style={{ margin: '0.8rem 0' }} />
+    <em style={{ color: 'var(--ifm-color-emphasis-700)' }}>Arch</em>
+    <hr style={{ margin: '0.8rem 0', borderColor: 'var(--ifm-color-emphasis-300)' }} />
     <span style={{
-      backgroundColor: '#9e9e9e',
-      color: '#fff',
+      backgroundColor: 'var(--ifm-color-emphasis-300)',
+      color: 'var(--ifm-font-color-base)',
       fontWeight: '600',
       padding: '0.25rem 0.6rem',
       borderRadius: '6px',
@@ -142,19 +142,19 @@ Through this digital transformation, Taça UA takes a decisive step toward effic
   <div style={{
     width: '200px',
     textAlign: 'center',
-    border: '1px solid #e0e0e0',
+    border: '1px solid var(--ifm-color-emphasis-300)',
     borderRadius: '12px',
     padding: '1rem',
-    backgroundColor: '#fff',
-    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
+    backgroundColor: 'var(--ifm-card-background-color)',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.1)'
   }}>
     <img src="/img/dinis.jpg" alt="Dinis" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
     <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Dinis</h4>
-    <em>Backend</em>
-    <hr style={{ margin: '0.8rem 0' }} />
+    <em style={{ color: 'var(--ifm-color-emphasis-700)' }}>Backend</em>
+    <hr style={{ margin: '0.8rem 0', borderColor: 'var(--ifm-color-emphasis-300)' }} />
     <span style={{
-      backgroundColor: '#9e9e9e',
-      color: '#fff',
+      backgroundColor: 'var(--ifm-color-emphasis-300)',
+      color: 'var(--ifm-font-color-base)',
       fontWeight: '600',
       padding: '0.25rem 0.6rem',
       borderRadius: '6px',
@@ -166,19 +166,19 @@ Through this digital transformation, Taça UA takes a decisive step toward effic
   <div style={{
     width: '200px',
     textAlign: 'center',
-    border: '1px solid #e0e0e0',
+    border: '1px solid var(--ifm-color-emphasis-300)',
     borderRadius: '12px',
     padding: '1rem',
-    backgroundColor: '#fff',
-    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
+    backgroundColor: 'var(--ifm-card-background-color)',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.1)'
   }}>
     <img src="/img/diego.jpg" alt="Diego" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
     <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Diego</h4>
-    <em>QA</em>
-    <hr style={{ margin: '0.8rem 0' }} />
+    <em style={{ color: 'var(--ifm-color-emphasis-700)' }}>QA</em>
+    <hr style={{ margin: '0.8rem 0', borderColor: 'var(--ifm-color-emphasis-300)' }} />
     <span style={{
-      backgroundColor: '#9e9e9e',
-      color: '#fff',
+      backgroundColor: 'var(--ifm-color-emphasis-300)',
+      color: 'var(--ifm-font-color-base)',
       fontWeight: '600',
       padding: '0.25rem 0.6rem',
       borderRadius: '6px',
