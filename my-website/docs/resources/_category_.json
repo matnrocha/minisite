@@ -1,0 +1,8 @@
+{
+    "label": "Resources",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "Recursos úteis para o projeto, incluindo documentação PDF e calendário de eventos."
+    }
+}
