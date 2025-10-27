@@ -132,7 +132,7 @@ Below is an overview of the main tools and frameworks that power our system. ðŸš
     backgroundColor: '#fff',
     boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
   }}>
-    <img src="/img/docker.png" alt="Docker" style={{ width: '60px', marginBottom: '0.5rem' }} />
+    <img src="/img/64px-Docker-svgrepo-com.svg.png" alt="Docker" style={{ width: '60px', marginBottom: '0.5rem' }} />
     <h4 style={{ marginBottom: '0.4rem' }}>Docker</h4>
     <p style={{ fontSize: '0.9rem', color: '#555' }}>
 
@@ -149,7 +149,7 @@ Below is an overview of the main tools and frameworks that power our system. ðŸš
     backgroundColor: '#fff',
     boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
   }}>
-    <img src="/img/git.png" alt="Git" style={{ width: '60px', marginBottom: '0.5rem' }} />
+    <img src="/img/git-icon-logo-svgrepo-com.svg" alt="Git" style={{ width: '60px', marginBottom: '0.5rem' }} />
     <h4 style={{ marginBottom: '0.4rem' }}>Git</h4>
     <p style={{ fontSize: '0.9rem', color: '#555' }}>
       A distributed version control system used for collaboration and source code management.
