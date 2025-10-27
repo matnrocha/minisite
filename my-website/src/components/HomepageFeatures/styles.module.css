@@ -1,0 +1,125 @@
+.features {
+  padding: 5rem 0;
+  background: linear-gradient(180deg, var(--ifm-background-surface-color) 0%, var(--ifm-background-color) 100%);
+}
+
+.featuresTitle {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: var(--ifm-color-primary);
+  margin-bottom: 1rem;
+  letter-spacing: -0.02em;
+}
+
+.featuresSubtitle {
+  font-size: 1.2rem;
+  color: var(--ifm-color-emphasis-600);
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.featureCard {
+  background: var(--ifm-card-background-color);
+  border-radius: 16px;
+  padding: 2rem 1.5rem;
+  height: 100%;
+  box-shadow: var(--ifm-global-shadow-lw);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  position: relative;
+  overflow: hidden;
+}
+
+.featureCard::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--ifm-color-primary) 0%, var(--ifm-color-primary-dark) 100%);
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+.featureCard:hover {
+  transform: translateY(-8px);
+  box-shadow: var(--ifm-global-shadow-md);
+  border-color: var(--ifm-color-primary-lighter);
+}
+
+.featureCard:hover::before {
+  transform: scaleX(1);
+}
+
+.featureIconWrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 1.5rem;
+  background: var(--ifm-color-primary-contrast-background);
+  border-radius: 50%;
+  transition: all 0.3s ease;
+}
+
+.featureCard:hover .featureIconWrapper {
+  transform: scale(1.1) rotate(5deg);
+  background: var(--ifm-color-primary-lightest);
+}
+
+.featureSvg {
+  height: 70px;
+  width: 70px;
+}
+
+.featureTitle {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--ifm-heading-color);
+  margin-bottom: 1rem;
+  line-height: 1.3;
+}
+
+.featureDescription {
+  font-size: 1rem;
+  color: var(--ifm-color-emphasis-700);
+  line-height: 1.7;
+  margin: 0;
+}
+
+@media screen and (max-width: 996px) {
+  .featuresTitle {
+    font-size: 2rem;
+  }
+  
+  .featuresSubtitle {
+    font-size: 1rem;
+  }
+  
+  .featureCard {
+    margin-bottom: 2rem;
+  }
+  
+  .featureIconWrapper {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .featureSvg {
+    height: 60px;
+    width: 60px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .features {
+    padding: 3rem 0;
+  }
+  
+  .featuresTitle {
+    font-size: 1.75rem;
+  }
+}
