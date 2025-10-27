@@ -1,11 +1,11 @@
-# ⚙️ Tech Stack
+# Tech Stack
 
 Our project leverages a modern and robust technology stack designed to ensure scalability, performance, and maintainability.  
-Below is an overview of the main tools and frameworks that power our system. 🚀
+Below is an overview of the main tools and frameworks that power our system. 
 
 ---
 
-## 🖥️ Frontend
+## Frontend
 
 <div style={{
   display: 'flex',
@@ -51,7 +51,7 @@ Below is an overview of the main tools and frameworks that power our system. �
 
 ---
 
-## 🧠 Backend
+## Backend
 
 <div style={{
   display: 'flex',
@@ -113,7 +113,7 @@ Below is an overview of the main tools and frameworks that power our system. �
 
 ---
 
-## 🐳 Infrastructure
+## Infrastructure
 
 <div style={{
   display: 'flex',
