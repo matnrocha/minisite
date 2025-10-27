@@ -30,58 +30,160 @@ Through this digital transformation, Taça UA takes a decisive step toward effic
   flexWrap: 'wrap',
   justifyContent: 'center',
   gap: '1.5rem',
-  marginTop: '1rem'
+  marginTop: '1.5rem'
 }}>
 
+  <!-- Bernardo -->
   <div style={{
-    width: '180px',
+    width: '200px',
     textAlign: 'center',
-    border: '1px solid #ddd',
-    borderRadius: '10px',
+    border: '1px solid #e0e0e0',
+    borderRadius: '12px',
     padding: '1rem',
-    boxShadow: '0 2px 5px rgba(0,0,0,0.1)',
-    backgroundColor: '#fff'
+    backgroundColor: '#fff',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
   }}>
-    <img src="/img/pedro.jpg" alt="Mateus Rocha" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
-    <h4 style={{ color: '#8cc63f', margin: '0.3rem 0' }}>Mateus Rocha</h4>
-    <em>122949</em>
+    <img src="/img/bernardo.jpg" alt="Bernardo" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
+    <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Bernardo</h4>
+    <em>Project Owner</em>
     <hr style={{ margin: '0.8rem 0' }} />
-    <strong>Backend</strong><br />
-    💻 ⚠️ 🔨
+    <span style={{
+      backgroundColor: '#9e9e9e',
+      color: '#fff',
+      fontWeight: '600',
+      padding: '0.25rem 0.6rem',
+      borderRadius: '6px',
+      fontSize: '0.85rem'
+    }}>Project Owner</span>
   </div>
 
+  <!-- Alexandre -->
   <div style={{
-    width: '180px',
+    width: '200px',
     textAlign: 'center',
-    border: '1px solid #ddd',
-    borderRadius: '10px',
+    border: '1px solid #e0e0e0',
+    borderRadius: '12px',
     padding: '1rem',
-    boxShadow: '0 2px 5px rgba(0,0,0,0.1)',
-    backgroundColor: '#fff'
+    backgroundColor: '#fff',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
   }}>
-    <img src="/img/rodrigo.jpg" alt="Rodrigo Aguiar" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
-    <h4 style={{ color: '#8cc63f', margin: '0.3rem 0' }}>Rodrigo Aguiar</h4>
-    <em>108969</em>
+    <img src="/img/alexandre.jpg" alt="Alexandre" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
+    <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Alexandre</h4>
+    <em>Joker</em>
     <hr style={{ margin: '0.8rem 0' }} />
-    <strong>Backend</strong><br />
-    💻 🧰
+    <span style={{
+      backgroundColor: '#9e9e9e',
+      color: '#fff',
+      fontWeight: '600',
+      padding: '0.25rem 0.6rem',
+      borderRadius: '6px',
+      fontSize: '0.85rem',
+      marginRight: '0.4rem'
+    }}>Frontend</span>
+    <span style={{
+      backgroundColor: '#9e9e9e',
+      color: '#fff',
+      fontWeight: '600',
+      padding: '0.25rem 0.6rem',
+      borderRadius: '6px',
+      fontSize: '0.85rem'
+    }}>Backend</span>
   </div>
 
+  <!-- Mateus -->
   <div style={{
-    width: '180px',
+    width: '200px',
     textAlign: 'center',
-    border: '1px solid #ddd',
-    borderRadius: '10px',
+    border: '1px solid #e0e0e0',
+    borderRadius: '12px',
     padding: '1rem',
-    boxShadow: '0 2px 5px rgba(0,0,0,0.1)',
-    backgroundColor: '#fff'
+    backgroundColor: '#fff',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
   }}>
-    <img src="/img/daniel.jpg" alt="Daniel Madureira" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
-    <h4 style={{ color: '#8cc63f', margin: '0.3rem 0' }}>Daniel Madureira</h4>
-    <em>107603</em>
+    <img src="/img/MateusRocha.jpg" alt="Mateus" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
+    <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Mateus Rocha (122949)</h4>
+    <em>Architect</em>
     <hr style={{ margin: '0.8rem 0' }} />
-    <strong>Frontend</strong><br />
-    💻 🎨 🔧
+    <span style={{
+      backgroundColor: '#9e9e9e',
+      color: '#fff',
+      fontWeight: '600',
+      padding: '0.25rem 0.6rem',
+      borderRadius: '6px',
+      fontSize: '0.85rem'
+    }}>Backend</span>
+  </div>
+
+  <!-- Gonçalo -->
+  <div style={{
+    width: '200px',
+    textAlign: 'center',
+    border: '1px solid #e0e0e0',
+    borderRadius: '12px',
+    padding: '1rem',
+    backgroundColor: '#fff',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
+  }}>
+    <img src="/img/goncalo.jpg" alt="Gonçalo" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
+    <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Gonçalo</h4>
+    <em>Arch</em>
+    <hr style={{ margin: '0.8rem 0' }} />
+    <span style={{
+      backgroundColor: '#9e9e9e',
+      color: '#fff',
+      fontWeight: '600',
+      padding: '0.25rem 0.6rem',
+      borderRadius: '6px',
+      fontSize: '0.85rem'
+    }}>Frontend</span>
+  </div>
+
+  <!-- Dinis -->
+  <div style={{
+    width: '200px',
+    textAlign: 'center',
+    border: '1px solid #e0e0e0',
+    borderRadius: '12px',
+    padding: '1rem',
+    backgroundColor: '#fff',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
+  }}>
+    <img src="/img/dinis.jpg" alt="Dinis" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
+    <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Dinis</h4>
+    <em>Backend</em>
+    <hr style={{ margin: '0.8rem 0' }} />
+    <span style={{
+      backgroundColor: '#9e9e9e',
+      color: '#fff',
+      fontWeight: '600',
+      padding: '0.25rem 0.6rem',
+      borderRadius: '6px',
+      fontSize: '0.85rem'
+    }}>Backend</span>
+  </div>
+
+  <!-- Diego -->
+  <div style={{
+    width: '200px',
+    textAlign: 'center',
+    border: '1px solid #e0e0e0',
+    borderRadius: '12px',
+    padding: '1rem',
+    backgroundColor: '#fff',
+    boxShadow: '0 3px 6px rgba(0,0,0,0.05)'
+  }}>
+    <img src="/img/diego.jpg" alt="Diego" style={{ width: '100%', borderRadius: '8px', marginBottom: '0.5rem' }} />
+    <h4 style={{ color: '#4caf50', marginBottom: '0.2rem' }}>Diego</h4>
+    <em>QA</em>
+    <hr style={{ margin: '0.8rem 0' }} />
+    <span style={{
+      backgroundColor: '#9e9e9e',
+      color: '#fff',
+      fontWeight: '600',
+      padding: '0.25rem 0.6rem',
+      borderRadius: '6px',
+      fontSize: '0.85rem'
+    }}>Frontend</span>
   </div>
 
 </div>
