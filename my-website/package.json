@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -r https://github.com/Taca-Ua/Taca-Ua.github.io.git -b main",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",

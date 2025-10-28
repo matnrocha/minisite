@@ -15,10 +15,10 @@ const config: Config = {
 
   // Configuração para GitHub Pages
   url: 'https://taca-ua.github.io',
-  baseUrl: '/minisite/',
+  baseUrl: '/',
 
   organizationName: 'Taca-Ua',
-  projectName: 'minisite',
+  projectName: 'Taca-Ua.github.io',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
